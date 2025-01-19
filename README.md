@@ -16,5 +16,4 @@ The primary goal of this project is to use a PCG data to predict Valvular Heart 
 ## Hardware Used
 
 - **Development Board**: ADI MAX78000FTHR
-- **Sensors**: ECG, Doppler Ultrasound, and Phonocardiogram sensors
 - **Embedded Platform**: MAX78000F microcontroller
